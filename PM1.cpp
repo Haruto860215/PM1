@@ -6,7 +6,10 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "Hello  PullReqest Blanch!\n";
 }
+
+
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
 // プログラムのデバッグ: F5 または [デバッグ] > [デバッグの開始] メニュー
